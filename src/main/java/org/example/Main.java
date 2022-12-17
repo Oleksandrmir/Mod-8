@@ -6,7 +6,5 @@ public class Main {
         ShapePrinter shapePrinter = new ShapePrinter();
         Shape shape = new Shape();
         shapePrinter.printShape(shape);
-
-//        System.out.println(shapePrinter.printShape());
     }
 }
